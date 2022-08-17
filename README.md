@@ -1,2 +1,2 @@
-# colorful-logs
+# Colorful Logs
 Give console log some colours 
